@@ -78,7 +78,7 @@ main{
     color: var(--clr-Light-Gray);
 }
 
-h3{
+h3, .whyUs .t{
     font-size: 1.2rem;
     font-weight: var(--fw-bold);
 }
@@ -100,7 +100,7 @@ span{
     font-weight: var(--fw-light);
 }
 
-.whyUs h3{
+.whyUs .t{
     margin-top: .5rem;
     margin-bottom: 1rem;
 }
